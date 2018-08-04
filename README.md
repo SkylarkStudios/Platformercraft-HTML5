@@ -1,7 +1,12 @@
-# GameBase(Test)
-This is a test for the Game Base.
-The test is now also the official Pomegranate Gaming Game Base.
-Here are the instructions for using the game base:
-- Use config.js to make the code needed for the project to run
-- Use game.js to define variables right under the comment.
-- Build with GH pages.
+# Platformercraft HTML5
+
+Platformercraft in HTML5 instead of Scratch. This will be coded to almost completely match the Scratch version.
+
+To do:
+* Fix multi-key detection scripts
+* Add gravity
+* Add platformer controls
+* Add platforming script
+* Add GUI
+* Add editor
+
